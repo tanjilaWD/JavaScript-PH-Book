@@ -18,3 +18,19 @@
 
 // console.log( 75 == 75);
 
+const peyaraPrice = 40;
+const applePrice = 250;
+// console.log(peyaraPrice > applePrice);
+// console.log(peyaraPrice < applePrice);
+
+const myName = 'Rahim';
+const friendName = 'Rahim';
+// console.log(myName == friendName);
+
+const myPromise = true;
+const friendPromise = false;
+// console.log(myPromise == friendPromise);
+
+const didStudy = true;
+// console.log(didStudy != false);
+
